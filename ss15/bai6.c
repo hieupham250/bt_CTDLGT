@@ -60,7 +60,7 @@ int main() {
     }
 
     if (hasCycle) {
-        printf("do thi co chu trình\n");
+        printf("do thi co chu trinh\n");
     } else {
         printf("do thi khong co chu trình\n");
     }
